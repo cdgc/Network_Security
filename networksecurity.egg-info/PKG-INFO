@@ -4,10 +4,10 @@ Version: 0.0.1
 Author: durgesh choudhary
 Author-email: durgeshnitb@gmail.com
 License-File: LICENCE
+Requires-Dist: python-dotenv
 Requires-Dist: pandas
 Requires-Dist: numpy
-Requires-Dist: scikit-learn
-Requires-Dist: ipykernel
-Requires-Dist: python-dotenv
 Requires-Dist: pymongo
 Requires-Dist: certifi
+Requires-Dist: pymongo[srv]
+Requires-Dist: scikit-learn

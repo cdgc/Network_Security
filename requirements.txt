@@ -1,9 +1,9 @@
-pandas 
-numpy
-scikit-learn
-ipykernel
 python-dotenv
+pandas
+numpy
 pymongo
 certifi
+pymongo[srv]
+scikit-learn
 
 -e .
