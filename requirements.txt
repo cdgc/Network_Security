@@ -8,5 +8,11 @@ scikit-learn
 pyyaml
 dill
 xbboost
+fastapi
+uvicorn
+ipykernal
+apache-airflow
+mlflow
+dvc
 
 -e .
