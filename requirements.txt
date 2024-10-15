@@ -5,14 +5,16 @@ pymongo
 certifi
 pymongo[srv]
 scikit-learn
-pyyaml
 dill
-xbboost
+pyyaml
+xgboost
 fastapi
 uvicorn
-ipykernal
+ipykernel
 apache-airflow
 mlflow
 dvc
+jinja2
+python-multipart
 
 -e .
